@@ -1,0 +1,41 @@
+.profile {
+
+}
+
+.profile__title {
+  color: #26285B;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.profile__subtitle {
+  color: #26285B;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  margin: 2rem 0 0;
+}
+
+.profile__title a {
+  color: #26285B;
+  float: right;
+  font-size: 1.2rem;
+}
+
+.profile__img {
+  height: auto;
+  width: 100%;
+}
+
+.profile__heading {
+  color: #26285B;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin: 2rem 0 0;
+}
+
+.profile__list {
+  color: #26285B;
+  font-size: 1.4rem;
+  line-height: 1.5;
+}

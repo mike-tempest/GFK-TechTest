@@ -1,0 +1,25 @@
+.search-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.search-list__link {
+  align-items: center;
+  color: #26285B;
+  display: flex;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+}
+
+.search-list__link:hover {
+  text-decoration: underline;
+}
+
+.search-list__img {
+  border-radius: 5px;
+  height: auto;
+  margin-right: 1rem;
+  width: 60px;
+}

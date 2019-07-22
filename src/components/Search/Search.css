@@ -1,0 +1,38 @@
+.search {
+  border-bottom: 3px solid #FFA45D;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.search__title {
+  color: #26285B;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.search__input {
+  box-sizing: border-box;
+  border: 1px solid #ACACAC;
+  border-radius: 5px;
+  font-size: 1.8rem;
+  line-height: 1;
+  padding: 1rem;
+  width: 100%;
+}
+
+.search__submit-row {
+  text-align: right;
+}
+
+.search__submit {
+  background: 0;
+  border: 0;
+  border-bottom: 3px solid #26285B;
+  color: #26285B;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 0;
+  text-transform: uppercase;
+}
